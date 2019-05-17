@@ -5,6 +5,9 @@ new_scaper = []
 while i < runescape.length 
 new_scaper.push(yield(runescape[i]))
 i += 1 
+end
+
+new_scaper
 
 end
 
