@@ -3,7 +3,7 @@ def my_collect(runescape)
 i = 0 
 new_scaper = []
 while i < runescape.length 
-new_scaper 
+new_scaper.push
 
 end
 
